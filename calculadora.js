@@ -18,6 +18,9 @@ class Calculadora {
   modulo(a, b) {
     return a % b;
   }
+  Maillen () {
+    return 'hola';
+  } 
 }
 
 var calculadora = new Calculadora();
