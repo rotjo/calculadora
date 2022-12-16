@@ -18,6 +18,10 @@ class Calculadora {
   modulo(a, b) {
     return a % b;
   }
+
+  fran() {
+    return "Numeritos";
+  }
 }
 
 var calculadora = new Calculadora();
