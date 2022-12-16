@@ -18,6 +18,10 @@ class Calculadora {
   modulo(a, b) {
     return a % b;
   }
+
+  raul(){
+    console.log("hola!!!!!");
+  }
 }
 
 var calculadora = new Calculadora();
