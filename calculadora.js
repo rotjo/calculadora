@@ -21,6 +21,17 @@ class Calculadora {
 
   joaquin() {
     return Date.now();
+
+  raul(){
+    console.log("hola!!!!!");
+  }
+
+  fran() {
+    return "Numeritos";
+  }
+
+  Maillen () {
+    return 'hola';
   }
 }
 
