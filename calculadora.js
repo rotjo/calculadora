@@ -19,6 +19,10 @@ class Calculadora {
     return a % b;
   }
 
+  raul(){
+    console.log("hola!!!!!");
+  }
+
   fran() {
     return "Numeritos";
   }
