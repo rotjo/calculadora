@@ -18,9 +18,14 @@ class Calculadora {
   modulo(a, b) {
     return a % b;
   }
+
+  fran() {
+    return "Numeritos";
+  }
+
   Maillen () {
     return 'hola';
-  } 
+  }
 }
 
 var calculadora = new Calculadora();
