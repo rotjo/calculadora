@@ -19,6 +19,10 @@ class Calculadora {
     return a % b;
   }
 
+  joaquin() {
+    return Date.now();
+  }
+
   raul(){
     console.log("hola!!!!!");
   }
