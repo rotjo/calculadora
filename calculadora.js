@@ -22,6 +22,14 @@ class Calculadora {
   raul(){
     console.log("hola!!!!!");
   }
+
+  fran() {
+    return "Numeritos";
+  }
+
+  Maillen () {
+    return 'hola';
+  }
 }
 
 var calculadora = new Calculadora();
