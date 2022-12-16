@@ -22,6 +22,10 @@ class Calculadora {
   fran() {
     return "Numeritos";
   }
+
+  Maillen () {
+    return 'hola';
+  }
 }
 
 var calculadora = new Calculadora();
