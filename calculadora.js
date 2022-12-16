@@ -18,6 +18,10 @@ class Calculadora {
   modulo(a, b) {
     return a % b;
   }
+
+  joaquin() {
+    return Date.now();
+  }
 }
 
 var calculadora = new Calculadora();
